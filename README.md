@@ -1,6 +1,6 @@
-<h1>Sistema de cadastro de jogos</h1>
+# Sistema de cadastro de jogos
 
-<h2>Projeto feito no curso 'Git e GitHub: repositório, commit e versões' da Alura</h2>
+## Projeto feito no curso 'Git e GitHub: repositório, commit e versões' da Alura
 
 > Status do projeto: Em desenvolvimento
 
